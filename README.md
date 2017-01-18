@@ -31,7 +31,7 @@ See documentation: https://www.magentochile.cl/m2-spanish-language-pack.html
 * Official version: https://www.magentochile.cl/m2-spanish-language-pack.html
 
 ## Important Note: 
-This pack of languages, only contains the skeleton for translations, which you can install and once installed can translate the file es_CL respectively.
+This pack of languages, only contains the skeleton for translations, which you can install and once installed can translate the file es_ES respectively.
 
 ## Installation
 composer require magentochile/magento2-translation-spanish dev-master
