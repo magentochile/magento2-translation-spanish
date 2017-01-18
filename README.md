@@ -1,5 +1,5 @@
 # magento2-translation-spanish
-# Magento 2 Spanish Language Pack Spanish v100.0.0
+# Magento 2 Spanish Language Pack Spanish version 1.0.0
 
 Spanish translation for Magento 2. Translation es_ES (Spanish Chile).
 
