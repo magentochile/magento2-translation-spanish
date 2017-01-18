@@ -30,4 +30,11 @@ See documentation: https://www.magentochile.cl/m2-spanish-language-pack.html
 * Packagist: https://packagist.org/packages/magentochile/magento2-translation-spanish
 * Official version: https://www.magentochile.cl/m2-spanish-language-pack.html
 
+## Important Note: 
+This pack of languages, only contains the skeleton for translations, which you can install and once installed can translate the file es_CL respectively.
+
+## Installation
+composer require magentochile/magento2-translation-spanish dev-master
+php -d memory_limit=-1 bin/magento setup:static-content:deploy es_ES
+php bin/magento cache:clean
 ## End
