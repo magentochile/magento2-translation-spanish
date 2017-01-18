@@ -37,4 +37,5 @@ This pack of languages, only contains the skeleton for translations, which you c
 composer require magentochile/magento2-translation-spanish dev-master
 php -d memory_limit=-1 bin/magento setup:static-content:deploy es_ES
 php bin/magento cache:clean
+
 ## End
