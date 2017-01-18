@@ -27,6 +27,7 @@ See documentation: https://www.magentochile.cl/m2-spanish-language-pack.html
 ## Links
 
 * Website: https://www.magentochile.cl/
-* Packagist: https://www.magentochile.cl/m2-spanish-language-pack.html
+* Packagist: https://github.com/magentochile/magento2-translation-spanish/
+* Official version: https://www.magentochile.cl/m2-spanish-language-pack.html
 
 ## End
